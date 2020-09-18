@@ -1,5 +1,5 @@
 ## Reference
-[Click here](/https://programmer.help/blogs/vscode-sdl2-configuration-tutorial.html)
+[Click here](<https://programmer.help/blogs/vscode-sdl2-configuration-tutorial.html>)
 
 ## Steps
 ### Installing MSYS2
